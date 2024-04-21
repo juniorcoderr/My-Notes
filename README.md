@@ -1,2 +1,23 @@
 # My-Notes
-"My Notes" is a user-friendly React app that helps you organize and manage your notes effortlessly. It allows you to create, edit, categorize, and search for notes with ease. With features like customizable categories, tags, and responsive design, "My Notes" offers a streamlined note-taking experience tailored to your needs.
+Folders - 
+1) Public Folder-
+   #Sub_Files-
+    *index.html
+3) Src Folder-
+    #Sub_Folder-
+     *compenents-
+      **NoteItem.jsx
+      **useCreateDate.jsx
+     *pages-
+      **CreateNote.jsx
+      **EditNote.jsx
+      **Notes.jsx
+ -App.jsx
+ -dummy_notes.js
+ -index.css
+ -index.js
+
+#Create react app 
+#Use npm start to start the react app
+#packages - npm install react-icons
+          - npm install uuid
